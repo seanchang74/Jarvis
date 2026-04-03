@@ -1,0 +1,5 @@
+package com.seanchang.jarvis
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
